@@ -71,8 +71,8 @@ Make sure you have **Node.js** and **npm** installed on your computer.
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repository-url>
-cd note-taking-react
+git clone https://github.com/hamidAlhaj/Note-taking-react.git
+cd Note-taking-react
 ```
 
 ### 2. Install dependencies
